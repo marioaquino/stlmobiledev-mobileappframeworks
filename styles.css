@@ -1,5 +1,5 @@
-.title-slide h1 {
-  color: blue;
+.title-slide h1:last-of-type {
+  color: red;
 }
 
 .image-slide img {
