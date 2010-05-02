@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE title-slide
 # PhoneGap vs. Titanium #
 
 # FIGHT! #
@@ -72,7 +72,7 @@
 * Titanium delegates JS calls to runtime interpreter (rather than actual JS file)
 * Titanium creates native widgets for UI components created via JS calls
 
-!SLIDE center
+!SLIDE center image-slide
 
 ![Multiple license models](titanium_licenses.png)
 
