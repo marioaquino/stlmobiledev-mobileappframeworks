@@ -73,9 +73,10 @@
 * Titanium creates native widgets for UI components created via JS calls
 
 !SLIDE center
-# Titanium has multiple license models #
 
-![titanium licenses](titanium_licenses.png)
+![Multiple license models](titanium_licenses.png)
+
+## Titanium has multiple license models ##
 
 !SLIDE bullets
 # Demo #
